@@ -11,8 +11,7 @@ When the chance input is activated, a four-bit random number is generated, and t
 ## Key Points
 
 * The distance between each station and its adjacent station is $5$ km.
-* The car's velocity is provided as input by the user.
-* For example, if the car's velocity is $3$ km/s, traveling from station $12$ to station $7$ requires covering a total distance of $25$ km, which would take approximately $8$ seconds.
+* The car's velocity is provided as input by the user. For example, if the car's velocity is $3$ km/s, traveling from station $12$ to station $7$ requires covering a total distance of $25$ km, which would take approximately $8$ seconds.
 * Each second corresponds to ten clock signals for the system's operation.
 
 ## Getting Started
@@ -84,7 +83,7 @@ $$ \frac{212 \text{ km}}{2 \text{ km/s}} + 95 \text{ s} = 201 \text{ seconds} $$
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you find bugs or want to improve the game.
+Feel free to submit issues or pull requests if you find bugs or want to improve this project.
 
 ## License
 
