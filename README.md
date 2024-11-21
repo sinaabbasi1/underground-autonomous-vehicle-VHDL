@@ -66,21 +66,21 @@ $$ \frac{212 \text{ km}}{2 \text{ km/s}} + 95 \text{ s} = 201 \text{ seconds} $$
 
 ## Screenshots
 
-| ![Startup Screen](./screenshots/Startup%20Screen.png) | 
+| ![The full waveform viewer (duration: 0 µs to 1680 µs).](./screenshots/Waveform%20viewer%200.png) | 
 |:--:| 
-| *Startup Screen* |
+| *The full waveform viewer (duration: 0 µs to 1680 µs).* |
 
-| ![Test Case 1 - Correct](./screenshots/Test%20Case%201%20-%20Correct.png) | 
+| ![Waveform viewer zoomed in (duration: 0 µs to 850 µs).](./screenshots/Waveform%20viewer%201.png) | 
 |:--:| 
-| *Test Case 1 - Correct* |
+| *Waveform viewer zoomed in (duration: 0 µs to 850 µs).* |
 
-| ![Test Case 2 - Correct](./screenshots/Test%20Case%202%20-%20Correct.png) | 
+| ![Waveform viewer zoomed in (duration: 850 µs to 1680 µs).](./screenshots/Waveform%20viewer%202.png) | 
 |:--:| 
-| *Test Case 2 - Correct* |
+| *Waveform viewer zoomed in (duration: 850 µs to 1680 µs).* |
 
-| ![Test Case 3 - Incorrect](./screenshots/Test%20Case%203%20-%20Incorrect.png) | 
+| ![FSM](./screenshots/FSM.png) | 
 |:--:| 
-| *Test Case 3 - Incorrect* |
+| *FSM* |
 
 ## Contributing
 
